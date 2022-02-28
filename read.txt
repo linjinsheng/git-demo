@@ -1,0 +1,13 @@
+git add .
+git commit -m "xxxxx"
+git status
+git log
+git reflog
+git push origin dev
+git branch xxxxx
+git branch -v
+git checkout xxxx
+git merger xxxxx
+git merge dev
+git reset --hard xxxxxx
+
