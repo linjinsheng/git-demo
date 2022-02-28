@@ -10,4 +10,4 @@ git checkout xxxx
 git merger xxxxx
 git merge dev
 git reset --hard xxxxxx
-
+git pull origin master
